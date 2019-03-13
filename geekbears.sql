@@ -106,8 +106,8 @@ CREATE TABLE `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://localhost/geekbears', 'yes'),
-(2, 'home', 'http://localhost/geekbears', 'yes'),
+(1, 'siteurl', 'http://ivan-test.geekbears.org', 'yes'),
+(2, 'home', 'http://ivan-test.geekbears.org', 'yes'),
 (3, 'blogname', 'GeekBears Test', 'yes'),
 (4, 'blogdescription', 'Dream. Design. Develop', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
